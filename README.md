@@ -11,11 +11,11 @@ http://giftwaly.com/parking_booking_system
 
 ## Admin Credential
 Username : admin <br/>
-password: 123456 <br/>
+Password: 123456 <br/>
 
 ## User Credentails
-username: tariq.ali <br/>
-password: 123456 <br/>
+Username: tariq.ali <br/>
+Password: 123456 <br/>
 
 # Steps to run the application:
 
@@ -23,9 +23,8 @@ password: 123456 <br/>
 
 ## Run the following commands
 
-php artisan migrate <br />
-php artisan db:seed <br />
-php artisan serve <br />
+php artisan migrate (For migrating the database)
+php artisan db:seed  (For dumb the inital data for the testing purpose)
 
 
 
