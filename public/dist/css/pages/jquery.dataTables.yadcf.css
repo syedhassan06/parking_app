@@ -1,0 +1,220 @@
+/*
+.hide {
+	display: none;
+}
+
+.inuse, .ui-slider-range .inuse, .yadcf-filter-range-number-slider .inuse {
+	background: #8BBEF0;
+}
+
+.yadcf-filter-reset-button {
+	display: inline-block;
+}
+
+.yadcf-filter-reset-button.range-number-slider-reset-button{
+	position: relative;
+	top: -6px;	
+}
+
+.yadcf-filter {
+	padding-right: 4px;
+	padding-left: 4px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+}
+
+.yadcf-filter > option{
+    background: white;
+}
+
+.ui-autocomplete .ui-menu-item { 
+	font-size:13px;
+}
+
+#ui-datepicker-div { 
+	font-size:13px;
+}
+.yadcf-filter-wrapper {
+	display: inline-block;
+	white-space: nowrap;
+	margin-left: 2px;
+}
+
+.yadcf-filter-range-number {
+	width: 40px;
+}
+
+.yadcf-filter-range-number-seperator {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.yadcf-filter-range-date {
+	width: 80px;
+}
+
+.yadcf-filter-range-date-seperator {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.yadcf-filter-wrapper-inner {
+	display: inline-block;
+	border: 1px solid #ABADB3;
+}
+
+.yadcf-number-slider-filter-wrapper-inner {
+	display: inline-block;
+	width: 200px;
+	margin-bottom: 7px;
+}
+
+.yadcf-filter-range-number-slider .ui-slider-handle {
+	width: 10px;
+	height: 10px;
+	margin-top: 1px;
+}
+
+.yadcf-filter-range-number-slider .ui-slider-range {
+	position: relative;
+	height: 5px;
+}
+
+.yadcf-filter-range-number-slider {
+	height: 5px;
+	margin-left: 6px;
+	margin-right: 6px;
+}
+
+.yadcf-filter-range-number-slider {
+    overflow: visible;
+}
+
+.yadcf-number-slider-filter-wrapper-inner .yadcf-filter-range-number-slider-min-tip {
+	font-size: 13px;
+	font-weight: normal;
+	position: absolute;
+	outline-style: none;
+}
+
+.yadcf-number-slider-filter-wrapper-inner .yadcf-filter-range-number-slider-max-tip {
+	font-size: 13px;
+	font-weight: normal;
+	position:absolute;
+	outline-style: none;
+}
+
+.yadcf-number-slider-filter-wrapper-inner .yadcf-filter-range-number-slider-min-tip-inner {
+	position:absolute;
+	top: 11px;
+}
+
+.yadcf-number-slider-filter-wrapper-inner .yadcf-filter-range-number-slider-max-tip-inner {
+	position:absolute;
+	top: 11px;
+}
+
+.yadcf-exclude-wrapper {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 5px;
+}
+.yadcf-label.small {
+	font-size: 10px;
+}
+!* if you do not use the reset button to add the cell this class *!
+.yadcf-no-reset .yadcf-filter-wrapper {
+	padding-right: 0;
+}
+.yadcf-no-reset .yadcf-filter-reset-button {
+	display: none;
+}
+
+!* Style no input-group
+ * ------------------------------ *!
+.yadcf-filter-wrapper {
+	display: block;
+
+	padding-right: 36px;
+
+	white-space: nowrap;
+}
+.yadcf-filter-wrapper .form-control,
+.yadcf-filter-wrapper .select2-container,
+.yadcf-filter-wrapper .select2-container.form-control,
+.yadcf-filter-wrapper .yadcf-number-slider-filter-wrapper-inner {
+	display: inline-block;
+
+	width: 100%;
+}
+.yadcf-filter-wrapper .yadcf-filter-range-date {
+	width: 100px;
+}
+.yadcf-filter-wrapper .yadcf-filter-range-number {
+	width: 60px;
+}
+
+!* Range wrapper *!
+.yadcf-filter-wrapper-inner {
+	display: inline-block;
+
+	vertical-align: middle;
+}
+
+!* Range input *!
+.yadcf-filter-range {
+	display: inline-block;
+
+	vertical-align: middle;
+}
+
+!* Range separator *!
+.yadcf-filter-range-date-seperator,
+.yadcf-filter-range-number-seperator {
+	display: inline-block;
+
+	margin-left: 1px;
+
+	vertical-align: middle;
+}
+
+!* Reset button *!
+.yadcf-filter-reset-button {
+	display: inline-block;
+
+	margin-right: -36px;
+	margin-left: 1px;
+
+	vertical-align: top;
+}
+.yadcf-filter-reset-button.btn {
+	font-size: 11px;
+	line-height: 20px;
+
+	color: #d9d9d9;
+}
+.yadcf-filter-reset-button.btn:hover {
+	color: #333;
+}
+
+
+!* If set stack range
+ * ------------------------------ *!
+!* Range wrapper *!
+.yadcf-range-stack .yadcf-filter-wrapper-inner {
+	display: inline-block;
+
+	vertical-align: top;
+}
+
+!* Range input *!
+.yadcf-range-stack .yadcf-filter-range {
+	display: block;
+}
+
+!* Range separator *!
+.yadcf-range-stack .yadcf-filter-range-date-seperator,
+.yadcf-range-stack .yadcf-filter-range-number-seperator {
+	display: none;
+}
+*/
