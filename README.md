@@ -10,12 +10,12 @@ The application is the puprpose for the allotment of car/vehicle booking at spec
 http://giftwaly.com/parking_booking_system
 
 ## Admin Credential
-Username : admin
-password: 123456
+Username : admin <br/>
+password: 123456 <br/>
 
 ## User Credentails
-username: tariq.ali
-password: 123456
+username: tariq.ali <br/>
+password: 123456 <br/>
 
 # Steps to run the application:
 
