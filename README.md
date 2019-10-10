@@ -23,8 +23,8 @@ Password: 123456 <br/>
 
 ## Run the following commands
 
-php artisan migrate (For migrating the database)
-php artisan db:seed  (For dumb the inital data for the testing purpose)
+php artisan migrate (For migrating the database) <br />
+php artisan db:seed  (For dumb the inital data for the testing purpose) <br />
 
 
 
