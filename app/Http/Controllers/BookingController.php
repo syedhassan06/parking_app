@@ -94,7 +94,7 @@ class BookingController extends Controller
     {
         $data = $request->all();
         $payloadedData = [
-          'booking_date'=> Carbon\Carbon::parse($data['booking_date_submit'])->format('Y-m-d'),
+          'booking_date'=> Carbon\Carbon::createFromFormat('d/m/Y',$data['booking_date_submit'])->format('Y-m-d'),
           'start_time'=> Carbon\Carbon::parse($data['start_time'])->format('H:i:s'),
           'end_time'=> Carbon\Carbon::parse($data['end_time'])->format('H:i:s'),
           'user_id'=>$this->user->id,
